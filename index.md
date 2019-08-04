@@ -9,7 +9,7 @@ title: Home
 ## [Diversity & Inclusion]({{ '/diversity_inclusion/' | relative_url }})
 
 ___________________
-Experience [LinkedIn](https://www.linkedin.com/in/danielle-beaulieu-68197b61) | Interests [Twitter](https://twitter.com/anddunny) | Adventures [Instagram](https://www.instagram.com/dunnybun/)
+Experience // [LinkedIn](https://www.linkedin.com/in/danielle-beaulieu-68197b61) | Interests // [Twitter](https://twitter.com/anddunny) | Adventures // [Instagram](https://www.instagram.com/dunnybun/)
 
 
 
