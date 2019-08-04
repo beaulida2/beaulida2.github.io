@@ -2,9 +2,5 @@
 title: Home
 ---
 
-## testing
-
-### hello world
-
-[Link]({{ '/about/' | relative_url }})
+[CV]({{ '/about/' | relative_url }}) | [Projects]({{ '/about/' | relative_url }})
 
