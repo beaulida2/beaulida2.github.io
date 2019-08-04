@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Diversity & Inclusion
+title: Diversity and Inclusion
 permalink: /diversity_inclusion/
 ---
 
